@@ -13,3 +13,15 @@ cd build
 cmake ../
 make 
 ```
+
+## Invoking OpenTimer
+Opentimer can be invoked by typing the following command 
+```
+cd Desktop
+cd OpenTimer
+./bin/ot-shell
+```
+<p align="center">
+  <img src="/images/sta1.png">
+</p><br>
+
