@@ -53,7 +53,9 @@ Here, `clock clk 1000 50` signifies that `clk` is the primary input of the desin
 </p><br>
 
 Consider `at clk 0 500 0 500`. This signifies the arrival time of the clock. 
-
+<p align="center">
+  <img src="/images/sta5.png">
+</p><br>
 
 
 
